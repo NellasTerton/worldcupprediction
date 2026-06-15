@@ -4,6 +4,7 @@ An offline-first, mobile-designed progressive web application (PWA) made for pre
 
 <img width="1672" height="941" alt="ChatGPT Image 11 июн  2026 г , 12_28_45" src="https://github.com/user-attachments/assets/592f28b1-0bfd-4ede-af00-280d1df65cd9" />
 
+Web: https://fifa-world-cup-2026-predictions-624817335413.europe-west2.run.app
 ---
 
 ### 💡 Concept & Motivation

@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup 2026 Predictions",
+  "description": "Mobile-first PWA prediction web application for the FIFA World Cup 2026 with Group Tables, Leaderboards, and match forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

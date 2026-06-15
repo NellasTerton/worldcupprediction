@@ -19,7 +19,7 @@ Developed as a challenge to build a fully functional cloud-based product from sc
 
 ### 🌟 Key Features
 *   **Dual-Language Support:** Instant toggle between English and Russian (RU/EN).
-*   **Strict Anti-Cheat Time-Lock:** Predictions are hard-locked on both the client side and the server side exactly at the scheduled kickoff time (`match_date`) to prevent players from waiting for game progression or遅延 (updates latency) to submit winning bets.
+*   **Strict Anti-Cheat Time-Lock:** Predictions are hard-locked on both the client side and the server side exactly at the scheduled kickoff time (`match_date`) to prevent players from waiting for game progression or to submit winning bets.
 *   **Exact Score Scoring Engine:** 
     *   **5 Points:** For guessing the exact full-time score (e.g., predicting 2-1 when the match ends 2-1).
     *   **2 Points:** For predicting the correct outcome (winning team or draw) but with a different scoreline (e.g., predicting 2-1 when the match ends 2-0).

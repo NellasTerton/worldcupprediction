@@ -4,6 +4,8 @@ An offline-first, mobile-designed progressive web application (PWA) made for pre
 
 Автономное прогрессивное веб-приложение (PWA), оптимизированное под мобильные экраны, созданное для спортивных прогнозов, дружеских лиг и отслеживания таблиц лидеров во время **Чемпионата мира по футболу 2026**.
 
+<img width="1672" height="941" alt="ChatGPT Image 11 июн  2026 г , 12_28_45" src="https://github.com/user-attachments/assets/592f28b1-0bfd-4ede-af00-280d1df65cd9" />
+
 ---
 
 ## 🇺🇸 English Version
